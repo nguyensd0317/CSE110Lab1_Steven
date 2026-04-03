@@ -2,11 +2,11 @@
 
 ## Pictures
 
-** This is where I'll show a cat meme **
+**This is where I'll show a cat meme**
 
 ![Cat Meme](https://c.tenor.com/cRTQk6N_FxMAAAAC/tenor.gif)
 
-__ This is where I'll show a dog meme __ 
+__This is where I'll show a dog meme__ 
 
 ![Dog Meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRICJntjQCYdSblUDurLcUCtrbei788JC3Q&s
 )
